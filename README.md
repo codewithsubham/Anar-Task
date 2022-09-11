@@ -5,7 +5,7 @@ We will be using expo to run this application
 Install expo cli using below command
 ```npm install --global expo-cli```
 
-Then run below command to start app on your device
+Then run below command to start the project
 
 ```expo start```
 
