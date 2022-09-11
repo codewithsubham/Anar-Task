@@ -1,5 +1,13 @@
 # Anar-Task
 
+clone the project , make sure you have the latest node version installed, version 16 will work fine
+
+open the terminal inside project directory
+
+run bellow command
+
+``` npm install```
+
 We will be using expo to run this application
 
 Install expo cli using below command
